@@ -1,0 +1,147 @@
+[  2%] Building C object tests/CMakeFiles/unity.dir/unity/src/unity.c.o
+[  4%] Building C object CMakeFiles/cjson.dir/cJSON.c.o
+[  6%] Linking C static library libunity.a
+[  8%] Linking C shared library libcjson.so
+[  8%] Built target unity
+[  8%] Built target cjson
+gmake[2]: Warning: File 'CMakeFiles/cJSON_test.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_examples.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_number.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_hex4.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_string.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_array.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_object.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_value.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_string.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_number.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_object.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_value.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_array.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/misc_tests.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/compare_tests.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_with_opts.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/cjson_add.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/readme_examples.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/minify_tests.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'fuzzing/CMakeFiles/fuzz_main.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_examples.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'CMakeFiles/cJSON_test.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_hex4.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_number.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_value.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_string.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_array.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_object.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_number.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/print_string.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_object.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/misc_tests.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_value.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: Warning: File 'tests/CMakeFiles/readme_examples.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/cjson_add.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/parse_with_opts.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/print_array.dir/flags.make' has modification time 1.7 s in the future
+gmake[2]: Warning: File 'tests/CMakeFiles/compare_tests.dir/flags.make' has modification time 1.7 s in the future
+[ 11%] Building C object tests/CMakeFiles/parse_examples.dir/parse_examples.c.o
+gmake[2]: Warning: File 'tests/CMakeFiles/minify_tests.dir/flags.make' has modification time 1.7 s in the future
+[ 13%] Building C object CMakeFiles/cJSON_test.dir/test.c.o
+gmake[2]: Warning: File 'fuzzing/CMakeFiles/fuzz_main.dir/flags.make' has modification time 1.7 s in the future
+[ 20%] Building C object tests/CMakeFiles/parse_number.dir/parse_number.c.o
+[ 20%] Building C object tests/CMakeFiles/parse_hex4.dir/parse_hex4.c.o
+[ 20%] Building C object tests/CMakeFiles/parse_value.dir/parse_value.c.o
+[ 22%] Building C object tests/CMakeFiles/parse_array.dir/parse_array.c.o
+[ 24%] Building C object tests/CMakeFiles/parse_object.dir/parse_object.c.o
+[ 26%] Building C object tests/CMakeFiles/parse_string.dir/parse_string.c.o
+[ 28%] Building C object tests/CMakeFiles/print_string.dir/print_string.c.o
+[ 33%] Building C object tests/CMakeFiles/print_value.dir/print_value.c.o
+[ 33%] Building C object tests/CMakeFiles/print_number.dir/print_number.c.o
+[ 35%] Building C object tests/CMakeFiles/print_object.dir/print_object.c.o
+[ 37%] Building C object tests/CMakeFiles/parse_with_opts.dir/parse_with_opts.c.o
+[ 40%] Building C object tests/CMakeFiles/cjson_add.dir/cjson_add.c.o
+[ 42%] Building C object tests/CMakeFiles/misc_tests.dir/misc_tests.c.o
+[ 44%] Building C object tests/CMakeFiles/readme_examples.dir/readme_examples.c.o
+[ 48%] Building C object tests/CMakeFiles/print_array.dir/print_array.c.o
+[ 48%] Building C object tests/CMakeFiles/compare_tests.dir/compare_tests.c.o
+[ 51%] Building C object fuzzing/CMakeFiles/fuzz_main.dir/fuzz_main.c.o
+[ 53%] Building C object tests/CMakeFiles/minify_tests.dir/minify_tests.c.o
+[ 55%] Building C object fuzzing/CMakeFiles/fuzz_main.dir/cjson_read_fuzzer.c.o
+[ 57%] Linking C executable cJSON_test
+[ 60%] Linking C executable fuzz_main
+[ 62%] Linking C executable print_value
+[ 64%] Linking C executable parse_hex4
+[ 66%] Linking C executable parse_object
+[ 68%] Linking C executable print_string
+[ 71%] Linking C executable print_object
+[ 73%] Linking C executable parse_examples
+[ 77%] Linking C executable parse_array
+[ 77%] Linking C executable print_number
+[ 80%] Linking C executable minify_tests
+[ 82%] Linking C executable parse_with_opts
+[ 84%] Linking C executable readme_examples
+[ 86%] Linking C executable parse_value
+[ 88%] Linking C executable parse_number
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 91%] Linking C executable compare_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[ 95%] Linking C executable print_array
+[ 93%] Linking C executable parse_string
+[ 97%] Linking C executable cjson_add
+[ 97%] Built target cJSON_test
+[ 97%] Built target fuzz_main
+[100%] Linking C executable misc_tests
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target parse_examples
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target print_string
+[100%] Built target parse_object
+[100%] Built target parse_with_opts
+[100%] Built target readme_examples
+[100%] Built target minify_tests
+[100%] Built target parse_array
+[100%] Built target parse_string
+[100%] Built target print_value
+[100%] Built target parse_number
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target parse_hex4
+[100%] Built target print_array
+[100%] Built target print_object
+[100%] Built target compare_tests
+[100%] Built target print_number
+[100%] Built target parse_value
+[100%] Built target cjson_add
+gmake[2]: warning:  Clock skew detected.  Your build may be incomplete.
+[100%] Built target misc_tests

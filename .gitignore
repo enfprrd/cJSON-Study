@@ -18,3 +18,7 @@ libcjson_utils.so.*
 cmake-build-debug
 *.lst
 *.lss
+# build outputs
+demo_*
+traverseJson*
+*.out

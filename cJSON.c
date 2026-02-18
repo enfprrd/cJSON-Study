@@ -254,9 +254,9 @@ CJSON_PUBLIC(void) cJSON_Delete(cJSON *item)
 {
     cJSON *next = NULL;
     while (item != NULL)
-    {
+{
         next = item->next;
-        if (!(item->type & cJSON_IsReference) && (item->child != NULL))
+        if ( item->type & cJSON_IsReference) && (item->child != NULL))
         {
             cJSON_Delete(item->child);
         }
@@ -1122,7 +1122,7 @@ static parse_buffer *skip_utf8_bom(parse_buffer * const buffer)
 
     return buffer;
 }
-
+/*第一个参数value是cJSON字符串,第二个参数是二层指针,用来存放出错位置的指针,第三个参数是决定是否把cjson末尾的无关字符认定为错误*/
 CJSON_PUBLIC(cJSON *) cJSON_ParseWithOpts(const char *value, const char **return_parse_end, cJSON_bool require_null_terminated)
 {
     size_t buffer_length;
